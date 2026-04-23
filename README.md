@@ -62,7 +62,7 @@ Hospitals need a clear and interactive system to monitor patient flow, reduce wa
 
 
 📸 6. Dashboard Preview / screenshort
-![Dashboard Preview](https://github.com/bansiramoliya/Mobile-Sales-Dashboard/blob/main/MobileSales.jpg)
+
 
 ![Dashboard Preview](https://github.com/bansiramoliya/Hospital-Emergency-Room-Dashboard/blob/main/Hospital%20Emergency%20Room%20Dashboard.png)
 
